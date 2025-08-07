@@ -1,16 +1,19 @@
-## Hi there 👋
+- 안녕하세요!
 
-<!--
-**sumin2385/sumin2385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 자기소개 CLI
+- Clone this repository:
+```sh
+git clone https://github.com/sumin2385/CLIck-Me.git
+```
+- Install the dependencies:
+```sh
+python -m venv hellopy-cli
 
-Here are some ideas to get you started:
+hellopy-cli\Scripts\activate.bat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pip install click colorama pyfiglet rich
+```
+- Usage:
+```
+python suminnn/cli-proflie.py
+```
