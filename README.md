@@ -29,6 +29,10 @@ hellopy-cli\Scripts\activate.bat
 
 # 4. Install dependencies
 pip install click colorama pyfiglet rich
+
+# 5. usage
+python suminnn/cli-proflie.py
+
 ```
 
 <br>
