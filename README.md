@@ -5,7 +5,7 @@
   
 🌱 **Currently learning**:
 - **basic programming**  *(C++, Java, Python, etc...)*
-- **Data Structures & Algorithms**
+- **Data Structures & Algorithms** 
 
 <br>
 
