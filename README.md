@@ -13,7 +13,7 @@
 
 A simple **Command Line Interface** program that introduces myself right in your terminal.🚀
 
-<img src="https://github.com/user-attachments/assets/d4040fa5-fe61-496e-8f4c-42b5624a8ee8" width=500 />
+<img src="https://github.com/user-attachments/assets/d4040fa5-fe61-496e-8f4c-42b5624a8ee8" width="500" alt="CLI Profile Screenshot" />
 
 <br><br>
 
